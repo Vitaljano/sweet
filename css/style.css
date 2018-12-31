@@ -205,8 +205,7 @@ h2{
     min-height: 10rem;
     top:0;
     right:0;
-
-    width:0;
+width:0;
     overflow: hidden;
     transition: all 0.3s ease-in-out;
 
